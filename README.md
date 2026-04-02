@@ -220,16 +220,3 @@ oop.md
 - “结束这次学习并总结”
 
 ---
-
-## 11. 仓库结构建议
-
-如果你想把这个 skill 分享给别人，建议仓库结构保持为：
-
-```text
-repo/
-├─ README.md
-└─ socratic-study/
-   └─ SKILL.md
-```
-
-这样别人复制 `SKILL.md` 到自己的全局 skills 目录里就能使用。
